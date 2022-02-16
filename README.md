@@ -2,13 +2,13 @@
 
 <p>
    <a href="https://github.com/dhruwlalan/semantic-release-config/blob/master/LICENSE" target="_blank">
-      <img alt="License: MIT" src="https://img.shields.io/npm/l/@dhruwlalan/semantic-release-config" />
+      <img alt="License: MIT" src="https://img.shields.io/npm/l/@dhruwlalan/semantic-release-config?color=blue" />
    </a>
    <a href="https://www.npmjs.com/package/@dhruwlalan/semantic-release-config" target="_blank">
-      <img alt="Version" src="https://img.shields.io/npm/v/@dhruwlalan/semantic-release-config">
+      <img alt="Version" src="https://img.shields.io/npm/v/@dhruwlalan/semantic-release-config?logo=npm&color=critical">
    </a>
    <a href="https://github.com/dhruwlalan/semantic-release-config/actions" target="_blank">
-      <img alt="Version" src="https://github.com/dhruwlalan/semantic-release-config/actions/workflows/release.yml/badge.svg?branch=master">
+      <img alt="Version" src="https://img.shields.io/github/workflow/status/dhruwlalan/semantic-release-config/Release/master.svg?logo=github">
    </a>
    <a href="https://github.com/semantic-release/semantic-release" target="_blank">
       <img alt="Version" src="https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release">
