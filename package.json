@@ -1,7 +1,7 @@
 {
    "name": "@dhruwlalan/semantic-release-config",
    "description": "my semantic-release config",
-   "version": "1.0.3",
+   "version": "2.0.0",
    "author": "dhruw lalan <dhruwlalan22@gmail.com> (https://dhruwlalan.me/)",
    "repository": "dhruwlalan/semantic-release-config",
    "homepage": "https://github.com/dhruwlalan/semantic-release-config#readme",
