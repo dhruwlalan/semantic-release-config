@@ -26,7 +26,7 @@
 **.releaserc**
 ```json
 {
-   "extends": "@dhruwlalan/semantic-release-config",
+   "extends": "@dhruwlalan/semantic-release-config"
 }
 ```
 
@@ -36,7 +36,7 @@
 ```json
 {
    "release": {
-      "extends": "@dhruwlalan/semantic-release-config",
+      "extends": "@dhruwlalan/semantic-release-config"
    }
 }
 ```
