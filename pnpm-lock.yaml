@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@dhruwlalan/eslint-config': ^1.0.3
+  '@dhruwlalan/eslint-config': ^1.0.4
   '@semantic-release/changelog': ^6.0.1
   '@semantic-release/commit-analyzer': ^9.0.2
   '@semantic-release/git': ^10.0.1
@@ -19,7 +19,7 @@ dependencies:
   '@semantic-release/npm': 9.0.0_semantic-release@19.0.2
 
 devDependencies:
-  '@dhruwlalan/eslint-config': 1.0.3_eslint@8.9.0+prettier@2.5.1
+  '@dhruwlalan/eslint-config': 1.0.4_eslint@8.9.0+prettier@2.5.1
   eslint: 8.9.0
   prettier: 2.5.1
   semantic-release: 19.0.2
@@ -44,8 +44,8 @@ packages:
       chalk: 2.4.2
       js-tokens: 4.0.0
 
-  /@dhruwlalan/eslint-config/1.0.3_eslint@8.9.0+prettier@2.5.1:
-    resolution: {integrity: sha512-XV8aSUD3RnpHHniqRD7kH1rRC+lxdh8fbmGovpuLCWEHeraoKgxY/9NwM5ZWfEGOWT1GvvnGa0yOq58XLD/ltQ==}
+  /@dhruwlalan/eslint-config/1.0.4_eslint@8.9.0+prettier@2.5.1:
+    resolution: {integrity: sha512-t0gWJcVd74QrCGKpq/4SPc3oqh4x1RUhmbMG2Rs0tKQfID4hH546Ef489qsnrBgq8yrq2CH9kv2HaGErMBmtEQ==}
     engines: {node: '>=12'}
     peerDependencies:
       eslint: 8.x
