@@ -1,0 +1,41 @@
+{
+   "name": "@dhruwlalan/semantic-release-config",
+   "description": "my semantic-release config",
+   "version": "1.0.0",
+   "author": "dhruw lalan <dhruwlalan22@gmail.com> (https://dhruwlalan.me/)",
+   "repository": "dhruwlalan/semantic-release-config",
+   "homepage": "https://github.com/dhruwlalan/semantic-release-config#readme",
+   "bugs": "https://github.com/dhruwlalan/semantic-release-config/issues",
+   "license": "MIT",
+   "main": "release.config.js",
+   "files": [
+      "release.config.js"
+   ],
+   "dependencies": {
+      "@semantic-release/changelog": "^6.0.1",
+      "@semantic-release/commit-analyzer": "^9.0.2",
+      "@semantic-release/git": "^10.0.1",
+      "@semantic-release/github": "^8.0.2",
+      "@semantic-release/npm": "^9.0.0"
+   },
+   "devDependencies": {
+      "@dhruwlalan/eslint-config": "^1.0.3",
+      "eslint": "^8.9.0",
+      "prettier": "^2.5.1",
+      "semantic-release": "^19.0.2"
+   },
+   "peerDependencies": {
+      "semantic-release": "19.x"
+   },
+   "publishConfig": {
+      "access": "public"
+   },
+   "engines": {
+      "node": ">=12"
+   },
+   "eslintConfig": {
+      "extends": [
+         "@dhruwlalan"
+      ]
+   }
+}
